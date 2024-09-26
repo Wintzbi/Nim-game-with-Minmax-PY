@@ -12,7 +12,7 @@ This Python code implements the classic game of Nim, where players take turns re
 5. The player who removes the last match wins!
 
 ## Requirements
-- Python 3.x
+- Python
 
 ## Usage
 ```bash
@@ -34,7 +34,7 @@ Ce code Python implémente le jeu classique de Nim, où les joueurs retirent tou
 5. Le joueur qui retire la dernière allumette gagne !
 
 ## Exigences
-- Python 3.x
+- Python
 
 ## Utilisation
 ```bash
